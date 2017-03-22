@@ -24,8 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "DDWaterFall,0.0.1,基于 UIScrollView仿照tableView数据源和代理的方式自定的瀑布流"
 
   s.homepage     = "http://EXAMPLE/DDWaterFall"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
